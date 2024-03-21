@@ -1,1 +1,1 @@
-# UMAD
+# UMAD: University of Macau Anomaly Detection Benchmark Dataset
