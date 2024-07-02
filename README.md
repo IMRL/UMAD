@@ -27,7 +27,7 @@ Dataset will be made public after paper acceptance.
 
 ## Acknowledgement
 
-The authors would like to thank the following people for their contributions to data collection and data annotation for this project: [@Xiangyu QIN](https://github.com/carter-qin), Shenbo WANG, [@Kaijie YIN](https://github.com/exaids66), [@Xiaonan LI](https://github.com/12mango), [@Beibei ZHOU](https://github.com/zbb9999), and Hongzhi CHEN.
+The authors would like to thank the following people for their contributions to data collection and data annotation for this project: [@Xiangyu QIN](https://github.com/carter-qin), [@Shenbo WANG](https://github.com/20191864135), [@Kaijie YIN](https://github.com/exaids66), [@Xiaonan LI](https://github.com/12mango), [@Beibei ZHOU](https://github.com/zbb9999), and Hongzhi CHEN.
 
 ## Citing
 
