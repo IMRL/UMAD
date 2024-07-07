@@ -6,7 +6,7 @@
 
 This is the official implementation for **UMAD** (IROS2024).
 
-[Dong Li](https://scholar.google.com/citations?user=NlsqUHcAAAAJ&hl=en) [Lineng Chen](https://scholar.google.com/citations?user=Fg01Yv0AAAAJ&hl=en&oi=ao), [Cheng-Zhong Xu](https://scholar.google.com/citations?user=XsBBTUgAAAAJ&hl=en), [Hui Kong](https://scholar.google.com/citations?user=Glqv2ooAAAAJ&hl=en&oi=sra)  [University of Macau](https://www.um.edu.mo/)
+[Dong Li](https://scholar.google.com/citations?user=NlsqUHcAAAAJ&hl=en) [Lineng Chen](https://scholar.google.com/citations?user=Fg01Yv0AAAAJ&hl=en&oi=ao), [Cheng-Zhong Xu](https://scholar.google.com/citations?user=XsBBTUgAAAAJ&hl=en), [Hui Kong](https://scholar.google.com/citations?user=Glqv2ooAAAAJ&hl=en&oi=sra) University of Macau
 
 ## 😊News
 
