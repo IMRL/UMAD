@@ -1,16 +1,22 @@
-# UMAD: University of Macau Anomaly Detection Benchmark Dataset
+# <p align="center">UMAD: University of Macau Anomaly Detection Benchmark Dataset
 
 [![UMAD: University of Macau Anomaly Detection Benchmark Dataset](IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
-## News
+## Introduction
 
-😊 The paper on this work is currently under review. You can hit the **STAR** and **WATCH** to follow the updates.
+This is the official implementation for **UMAD** (IROS2024).
+
+[Dong Li](https://scholar.google.com/citations?user=NlsqUHcAAAAJ&hl=en) [Lineng Chen](https://scholar.google.com/citations?user=Fg01Yv0AAAAJ&hl=en&oi=ao), [Cheng-Zhong Xu](https://scholar.google.com/citations?user=XsBBTUgAAAAJ&hl=en), [Hui Kong](https://scholar.google.com/citations?user=Glqv2ooAAAAJ&hl=en&oi=sra)  [University of Macau](https://www.um.edu.mo/)
+
+## 😊News
+
+The paper on this work is currently under review. You can hit the **STAR** and **WATCH** to follow the updates.
 
 - **2024/6/30**: **UMAD** has been accepted by **IROS 2024**! Thanks to everyone who participated in this project!
 
 - **2024/3/21**: We have publicly released a supplementary video for the paper submission.
 
-## To Do List
+## 📝ToDo List
 
 - [ ] Make the project paper publicly available.
 - [ ] Open-source the UMAD dataset.
