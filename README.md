@@ -32,3 +32,10 @@ The authors would like to thank the following people for their contributions to 
 ## Citing
 
 If you find our work useful, please consider citing:
+
+@article{li2024umad
+  author    = {Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
+  title     = {UMAD: University of Macau Anomaly Detection Benchmark Dataset},
+  journal   = {IROS},
+  year      = {2024},
+}
