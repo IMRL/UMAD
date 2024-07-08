@@ -19,7 +19,8 @@
     <a href="https://www.youtube.com/watch?v=xORb4H-AyNw"><img alt="Video" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
 </div>
 
-[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](D:\Install\typora\Install\Typora\IMG\1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
+
+[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](IMG\1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
 ## 😊News
 
