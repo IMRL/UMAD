@@ -20,7 +20,7 @@
 </div>
 
 
-[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](IMG\1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
+[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](https://github.com/DoongLi/UMAD/blob/main/IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
 ## 😊News
 
