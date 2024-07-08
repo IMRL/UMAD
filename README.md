@@ -1,12 +1,25 @@
-# <p align="center">UMAD: University of Macau Anomaly Detection Benchmark Dataset
+<div align="center">
+    <h1>UMAD: University of Macau Anomaly Detection Benchmark Dataset</h2>
+    <strong>IROS, 2024.</strong>
+    <br>
+        <a href="https://scholar.google.com/citations?user=NlsqUHcAAAAJ&hl=en" target="_blank">Dong Li</a>,
+        <a href="https://scholar.google.com/citations?user=Fg01Yv0AAAAJ&hl=en&oi=ao" target="_blank">Lineng Chen</a>,
+        <a href="https://scholar.google.com/citations?user=XsBBTUgAAAAJ&hl=en" target="_blank">Cheng-Zhong Xu</a>,
+        <a href="https://scholar.google.com/citations?user=Glqv2ooAAAAJ&hl=en&oi=sra" target="_blank">Hui Kong</a><sup>†</sup>
+    <p>
+        <h45>
+            University of Macau
+            <br>
+        </h5>
+        <sup>†</sup>Corresponding Authors
+    </p>
+    <a href='https://doongli.github.io/umad/'><img src='https://img.shields.io/badge/Website-UMAD-blue' alt='Project Page'></a>
+    <a href='https://github.com/IMRL/UMAD'><img src='https://img.shields.io/badge/Code%26Dataset-UMAD-green' alt='Code&Datasets'></a>
+    <a href=""><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-8A2BE2"/></a>
+    <a href="https://www.youtube.com/watch?v=xORb4H-AyNw"><img alt="Video" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
+</div>
 
-[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
-
-## Introduction
-
-This is the official implementation for **UMAD** (IROS2024).
-
-[Dong Li](https://scholar.google.com/citations?user=NlsqUHcAAAAJ&hl=en) [Lineng Chen](https://scholar.google.com/citations?user=Fg01Yv0AAAAJ&hl=en&oi=ao), [Cheng-Zhong Xu](https://scholar.google.com/citations?user=XsBBTUgAAAAJ&hl=en), [Hui Kong](https://scholar.google.com/citations?user=Glqv2ooAAAAJ&hl=en&oi=sra) University of Macau
+[![UMAD: University of Macau Anomaly Detection Benchmark Dataset](D:\Install\typora\Install\Typora\IMG\1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
 ## 😊News
 
@@ -25,7 +38,7 @@ The paper on this work is currently under review. You can hit the **STAR** and *
 
 ## Dataset
 
-Dataset will be made public after paper acceptance.
+#### Dataset Structure
 
 ## Anomaly Detection Benchmark
 
@@ -33,7 +46,7 @@ Dataset will be made public after paper acceptance.
 
 ## Acknowledgement
 
-The authors would like to thank the following people for their contributions to data collection and data annotation for this project: [@Xiangyu QIN](https://github.com/carter-qin), [@Shenbo WANG](https://github.com/20191864135), [@Kaijie YIN](https://github.com/exaids66), [@Xiaonan LI](https://github.com/12mango), [@Beibei ZHOU](https://github.com/zbb9999), and Hongzhi CHEN.
+The authors would like to thank the following people for their contributions to data collection and data annotation for this project: [@Xiangyu QIN](https://github.com/carter-qin), [@Shenbo WANG](https://github.com/20191864135), [@Kaijie YIN](https://github.com/exaids66), [@Shuhao ZHAI](https://github.com/LynnZoe), [@Xiaonan LI](https://github.com/12mango), [@Beibei ZHOU](https://github.com/zbb9999), and Hongzhi CHEN.
 
 ## Citing
 
