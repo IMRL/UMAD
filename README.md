@@ -39,7 +39,7 @@ The paper on this work is currently under review. You can hit the **STAR** and *
 - [ ] Open-source the UMAD-homo-eval dataset.
 - [ ] Open-source the code related to the datasets.
 
-## Dataset
+## 🔠Dataset
 
 #### Dataset Structure
 
@@ -47,11 +47,15 @@ The paper on this work is currently under review. You can hit the **STAR** and *
 
 ## Change Detection Benchmark
 
-## Acknowledgement
+## 💖Acknowledgement
 
 The authors would like to thank the following people for their contributions to data collection and data annotation for this project: [@Xiangyu QIN](https://github.com/carter-qin), [@Shenbo WANG](https://github.com/20191864135), [@Kaijie YIN](https://github.com/exaids66), [@Shuhao ZHAI](https://github.com/LynnZoe), [@Xiaonan LI](https://github.com/12mango), [@Beibei ZHOU](https://github.com/zbb9999), and [@Hongzhi CHENG](https://github.com/chenghz).
 
-## Citing
+## 📰License
+
+Our code is released under the MIT License (see LICENSE file for details).
+
+## ⛅️Citing
 
 If you find our work useful, please consider citing:
 
