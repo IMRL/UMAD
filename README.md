@@ -53,7 +53,7 @@ The authors would like to thank the following people for their contributions to 
 
 ## 📰License
 
-Our code is released under the MIT License (see LICENSE file for details).
+Our datasets and code is released under the MIT License (see LICENSE file for details).
 
 ## ⛅️Citing
 
