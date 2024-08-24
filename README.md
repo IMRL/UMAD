@@ -23,6 +23,7 @@
 
 
 
+
 [![UMAD: University of Macau Anomaly Detection Benchmark Dataset](https://github.com/DoongLi/UMAD/blob/main/IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
 ## 😊News
@@ -64,10 +65,11 @@ If you find our work useful, please consider citing:
 
 
 ```
-@article{li2024umad
-  author    = {Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
-  title     = {UMAD: University of Macau Anomaly Detection Benchmark Dataset},
-  journal   = {arXiv preprint arXiv:2408.12527},
-  year      = {2024},
+article{li2024umad,
+  title={UMAD: University of Macau Anomaly Detection Benchmark Dataset},
+  author={Li, Dong and Chen, Lineng and Xu, Cheng-Zhong and Kong, Hui},
+  journal={arXiv preprint arXiv:2408.12527},
+  year={2024}
 }
 ```
+
