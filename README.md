@@ -23,11 +23,14 @@
 
 
 
+
 [![UMAD: University of Macau Anomaly Detection Benchmark Dataset](https://github.com/DoongLi/UMAD/blob/main/IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
 ## 😊News
 
 This work is maintaining. You can hit the **STAR** and **WATCH** to follow the updates.
+
+- **2024-8-27**: We will update the **UMAD-homo-eva dataset** and the extension experiments on the [UMAD-homo-eva](https://github.com/IMRL/UMAD/UMAD-homo-eva-dataset).
 
 - **2024-8-22:** UMAD paper sharing on arXiv~
 
@@ -39,16 +42,28 @@ This work is maintaining. You can hit the **STAR** and **WATCH** to follow the u
 
 - [x] Make the project paper publicly available.
 - [ ] Open-source the UMAD dataset.
-- [ ] Open-source the UMAD-homo-eval dataset.
+- [x] Open-source the UMAD-homo-eval dataset.
 - [ ] Open-source the code related to the datasets.
+- [ ] Open source robotic system code.
+- [ ] Release C++/python Adaptive Warping code.
 
 ## 🔠Dataset
 
+#### Dataset Overview
+
+![2](IMG/2.jpg)
+
 #### Dataset Structure
 
-## Anomaly Detection Benchmark
+## Benchmark
 
-## Change Detection Benchmark
+#### Anomaly Detection Benchmark
+
+#### Change Detection Benchmark
+
+## System
+
+![3](IMG/3.png)
 
 ## 💖Acknowledgement
 
