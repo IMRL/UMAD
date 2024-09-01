@@ -30,7 +30,7 @@
 
 This work is maintaining. You can hit the **STAR** and **WATCH** to follow the updates.
 
-- **2024-8-27**: We will update the **UMAD-homo-eva dataset** and the extension experiments on the [UMAD-homo-eva](https://github.com/DoongLi/UMAD-homo-eva-dataset).
+- **2024-8-27**: We will update the **UMAD-homo-eva dataset** and the extension experiments on the [UMAD-homo-eva](https://github.com/IMRL/UMAD/UMAD-homo-eva-dataset).
 
 - **2024-8-22:** UMAD paper sharing on arXiv~
 
