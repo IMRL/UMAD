@@ -26,7 +26,7 @@
 
 [![UMAD: University of Macau Anomaly Detection Benchmark Dataset](https://github.com/DoongLi/UMAD/blob/main/IMG/1.png)](https://www.youtube.com/watch?v=xORb4H-AyNw "UMAD: University of Macau Anomaly Detection Benchmark Dataset")
 
-## [UMAD Dataset Google Drive Link, about 10GB](https://drive.google.com/drive/folders/1UmZ3vA1cOunB-2wgz8T1fJDebhb-gmax), and [UMAD-Dataset-Usage-Guide-Doc](ttps://github.com/IMRL/UMAD/blob/main/Doc/UMAD-Dataset-Usage-Guide-Doc.md)
+## [UMAD Dataset Google Drive Link, about 10GB](https://drive.google.com/drive/folders/1UmZ3vA1cOunB-2wgz8T1fJDebhb-gmax), and [UMAD-Dataset-Usage-Guide-Doc](https://github.com/IMRL/UMAD/blob/main/Doc/UMAD-Dataset-Usage-Guide-Doc.md)
 
 ## 😊News
 
@@ -57,7 +57,9 @@ This work is maintaining. You can hit the **STAR** and **WATCH** to follow the u
 
 ![2](IMG/2.jpg)
 
-#### Dataset Structure
+![3-07-00001668-and-6-21-00003570](Doc/IMG/3-07-00001668-and-6-21-00003570.png)
+
+You can refer to the [UMAD-Dataset-Usage-Guide-Doc](https://github.com/IMRL/UMAD/blob/main/Doc/UMAD-Dataset-Usage-Guide-Doc.md) for information on how to use the UMAD dataset and details about the ground truth mask files.
 
 ## Benchmark
 
@@ -122,3 +124,7 @@ If you find our work useful, please consider citing:
   year      = {2024},
 }
 ```
+
+## Note
+
+You can contact Dong Li via email(lidong8421bcd@gmail.com) or [open an issue on UMAD repo](https://github.com/IMRL/UMAD/issues) directly If you have any questions.
