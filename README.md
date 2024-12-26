@@ -13,12 +13,12 @@
         </h5>
         <sup>†</sup>Corresponding Authors
     </p>
+    <a href="https://ieeexplore.ieee.org/document/10802194/media#media"><img alt="Paper" src="https://img.shields.io/badge/Paper-IEEE%20Xplore-pink"/></a>
     <a href="https://arxiv.org/pdf/2408.12527"><img alt="Paper" src="https://img.shields.io/badge/Paper-arXiv-8A2BE2"/></a>
     <a href='https://drive.google.com/drive/folders/1UmZ3vA1cOunB-2wgz8T1fJDebhb-gmax?usp=sharing'><img src='https://img.shields.io/badge/Dataset-UMAD-green' alt='Code&Datasets'></a>
     <a href="https://www.youtube.com/watch?v=xORb4H-AyNw"><img alt="Video" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
     <a href="https://github.com/IMRL/UMAD/blob/main/Doc/UMAD-Poster.pdf"><img alt="Poster" src="https://img.shields.io/badge/Poster-blue"/></a>
 </div>
-
 
 
 
